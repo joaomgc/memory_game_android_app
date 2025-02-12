@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984297988719",
+    "project_id": "projetotaes-346c4",
+    "storage_bucket": "projetotaes-346c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984297988719:android:c9c11e1e115c69af01239a",
+        "android_client_info": {
+          "package_name": "projeto_taes.projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCba2y2YbuMFwXgBsmGLY-XDf5_zVaDnuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
